@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/special-1/static/css/main.3d10672c.css",
+    "main.js": "/special-1/static/js/main.fc333a1e.js",
+    "static/media/happy.mp3": "/special-1/static/media/happy.8656f68896d762f66d46.mp3",
+    "static/media/botany.png": "/special-1/static/media/botany.87f64cab64a8e37facb0.png",
+    "static/media/botanyOne.png": "/special-1/static/media/botanyOne.5a46e2f16778549bd55d.png",
+    "index.html": "/special-1/index.html",
+    "main.3d10672c.css.map": "/special-1/static/css/main.3d10672c.css.map",
+    "main.fc333a1e.js.map": "/special-1/static/js/main.fc333a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.fc333a1e.js"
+  ]
+}
